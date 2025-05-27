@@ -1,2 +1,2 @@
 # Evony-Defense-Calculator
-Calculator for easily calculating troop layers in Evony.
+Calculator for easily calculating defensive troop layers in Evony.
